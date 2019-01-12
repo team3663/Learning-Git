@@ -10,3 +10,6 @@ VIM commands
 i - insert mode
 esc - exit insert mode
 :q - save and exit
+
+Switch path
+cd + file path
