@@ -1,0 +1,12 @@
+How to push
+git add -A
+git commit -m "message"
+git push
+
+How to pull
+git pullS
+
+VIM commands
+i - insert mode
+esc - exit insert mode
+:q - save and exit
