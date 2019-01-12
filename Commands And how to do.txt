@@ -1,3 +1,8 @@
+setup 
+creat repository
+clone to computer
+set path
+
 How to push
 git add -A
 git commit -m "message"
@@ -14,4 +19,4 @@ esc - exit insert mode
 Switch path
 cd + file path
 
-git remoten add + 
+git remote add + 
