@@ -30,7 +30,6 @@ public final class XBoxGamePad extends Joystick {
 
     public XBoxGamePad(int port){
         super(port);
-        
     }
 
     public Button getAButton(){

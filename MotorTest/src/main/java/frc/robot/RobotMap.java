@@ -5,20 +5,12 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-package frc.robot.Subsystems;
-
-import edu.wpi.first.wpilibj.command.Subsystem;
+package frc.robot;
 
 /**
  * Add your docs here.
  */
-public class SS_Motor extends Subsystem {
-  // Put methods for controlling this subsystem
-  // here. Call these from Commands.
-
-  @Override
-  public void initDefaultCommand() {
-    // Set the default command for a subsystem here.
-    // setDefaultCommand(new MySpecialCommand());
-  }
+public class RobotMap {
+    public static final int NEO_ONE = 0;
+    public static final int NEO_TWO = 1;
 }
