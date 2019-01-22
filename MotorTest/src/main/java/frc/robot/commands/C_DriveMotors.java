@@ -23,8 +23,10 @@ public class C_DriveMotors extends Command {
   // Called repeatedly when this Command is scheduled to run
   @Override
   protected void execute() {
-    Robot.getMotor().setSpeed(Robot.getOI().getPrimaryController().getLeftYAxis(), 
-                              Robot.getOI().getPrimaryController().getRightYAxis());
+    double y_Axis = Math.pow(Robot.getOI().getPrimaryController().getLeftYAxis(), 2);
+    double x_Axis = Math.pow(Robot.getOI().getPrimaryController().getRightYAxis(), 2);
+
+    Robot.getMotor().setSpeed(y_Axis, x_Axis);
   }
 
   // Make this return true when this Command no longer needs to run execute()

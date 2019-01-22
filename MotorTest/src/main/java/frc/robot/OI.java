@@ -7,7 +7,6 @@
 
 package frc.robot;
 
-import edu.wpi.first.wpilibj.Joystick;
 import frc.robot.input.XBoxGamePad;
 
 /**
@@ -23,7 +22,7 @@ public class OI {
     //     primaryController.getLeftYAxis();
     //     primaryController.getRightYAxis();
     // }
-
+        
     public XBoxGamePad getPrimaryController(){
         return primaryController;
     }

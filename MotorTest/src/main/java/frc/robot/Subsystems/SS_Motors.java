@@ -13,7 +13,6 @@ import com.revrobotics.CANSparkMaxLowLevel.MotorType;
 import edu.wpi.first.wpilibj.command.Subsystem;
 import frc.robot.RobotMap;
 import frc.robot.commands.C_DriveMotors;
-import frc.robot.input.XBoxGamePad;
 
 /**
  * Add your docs here.
