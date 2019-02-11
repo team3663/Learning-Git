@@ -26,6 +26,7 @@ public class SS_Motors extends Subsystem {
   public SS_Motors() {
     neoOne = new CANSparkMax(RobotMap.NEO_ONE, MotorType.kBrushless);
     neoTwo = new CANSparkMax(RobotMap.NEO_TWO, MotorType.kBrushless);
+    neoOne.burnFlash();
   }
 
   @Override
