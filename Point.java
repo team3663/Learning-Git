@@ -1,6 +1,4 @@
 public class Point {
-    // master merge test
-
     // need private variables x and y
 
     // need constructor(s) 0 argument, 2 arguments
