@@ -1,6 +1,4 @@
 public class Point {
-    // master merge test
-
     // need private variables x and y
     private int x;
     private int y;
