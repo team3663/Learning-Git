@@ -1,6 +1,5 @@
 public class Point {
-    private int x;
-    private int y;
+    // need private variables x and y
 
     // need constructor(s)
 
