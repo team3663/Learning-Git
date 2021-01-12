@@ -23,6 +23,13 @@ public class Point {
     }
 
     // need getter methods
+    public int getX() {
+        return x;
+    }
+
+    public int getY() {
+        return y;
+    }
     
     // need translation methods
 
