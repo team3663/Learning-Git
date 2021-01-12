@@ -4,12 +4,14 @@ public class Point {
     private int x;
     private int y;
     private boolean mergeConflict = true;
+    private static int numPoints = 0;
 
     // need constructor(s) 0 argument, 2 arguments
 
     public Point(int x, int y){
         this.x = x;
         this.y = y;
+        numPoints ++;
     }
 
     // need setter methods
