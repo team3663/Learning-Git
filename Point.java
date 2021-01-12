@@ -14,6 +14,14 @@ public class Point {
 
     // need setter methods
 
+    public void setX(int xValue) {
+        x = xValue;
+    }
+
+    public void setY(int yValue) {
+        y = yValue;
+    }
+
     // need getter methods
     
     // need translation methods
