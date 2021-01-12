@@ -6,3 +6,8 @@ git add -A
 git commit -m "commit message"
 git push
 
+how to branch
+git branch (new branch name)
+git status
+git checkout (branch name)
+
