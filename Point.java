@@ -1,6 +1,6 @@
 public class Point {
     // need private variables x and y
-
+    private boolean mergeConflict = true;
     // need constructor(s) 0 argument, 2 arguments
 
     // need setter methods
