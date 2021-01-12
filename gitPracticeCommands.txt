@@ -1,0 +1,8 @@
+how to pull
+git pull
+
+how to push
+git add -A
+git commit -m "commit message"
+git push
+
