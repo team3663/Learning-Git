@@ -1,2 +1,4 @@
 hello world
 Eddie's homework folder
+
+Testing merge conflict
