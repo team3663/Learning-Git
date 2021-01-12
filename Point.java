@@ -1,7 +1,12 @@
 public class Point {
     // need private variables x and y
-
+    private int x;
+    private int y;
     // need constructor(s) 0 argument, 2 arguments
+    public Point(int x, int y){
+        this.x = x;
+        this.y = y;
+    }
 
     // need setter methods
 
