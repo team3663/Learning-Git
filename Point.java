@@ -3,7 +3,7 @@ public class Point {
     
     private int x;
     private int y;
-    private boolean mergeConflict = true;
+    
     private static int numPoints = 0;
 
     // need constructor(s) 0 argument, 2 arguments
