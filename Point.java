@@ -39,16 +39,21 @@ public class Point {
     }
     
     // need translation methods
-    public void dx(int xValue){
+    public void dx(int xValue) {
         x += xValue;
     }
     
-    public void dy(int yValue){
+    public void dy(int yValue) {
         y += yValue;
     }
 
     // need distanceTo() method
-
+    public double distanceTo(Point other) {
+        int xDiff = x - other.getX();
+        int yDiff = y - other.getY();
+        return Math.sqrt(Math.pow(xDiff, 2) + Math.pow(yDiff, 2));
+    }
+    
     // need toString() method
 
     // need a class variable to keep track total points (put it on top)
