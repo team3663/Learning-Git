@@ -39,6 +39,13 @@ public class Point {
     }
     
     // need translation methods
+    public void dx(int xValue){
+        x += xValue;
+    }
+    
+    public void dy(int yValue){
+        y += yValue;
+    }
 
     // need distanceTo() method
 
