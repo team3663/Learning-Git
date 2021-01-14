@@ -55,7 +55,9 @@ public class Point {
     }
     
     // need toString() method
-
+    public String toString(){
+        return "(" + x + ", " + y + ")";
+    }
     // need a class variable to keep track total points (put it on top)
 
     // need to class method to return total points (put it just below constructors)
