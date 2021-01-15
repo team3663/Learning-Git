@@ -7,5 +7,9 @@ public class Main {
         p1.dx(3);
         p1.dy(4);
         System.out.println(p1);
+        
+        Point p2 = new Point(5, 12);
+        System.out.println(p2);
+
     }
 }
