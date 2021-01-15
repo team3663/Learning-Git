@@ -63,4 +63,6 @@ public class Point {
     // need to class method to return total points (put it just below constructors)
 
     // need a quadrant() method that return which quadrant the point is located 1, 2, 3, or 4
+
+    // need a getAreaUnderCurve() method to return the area underneeth the curver
 }
