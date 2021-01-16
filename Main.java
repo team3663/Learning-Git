@@ -11,5 +11,9 @@ public class Main {
         Point p2 = new Point(5, 12);
         System.out.println(p2);
 
+        Point p3 = new Point(-3,-4);
+        System.out.println(p3);
+        System.out.println(Point.getTotalPoints());
+
     }
 }
