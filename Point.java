@@ -61,6 +61,7 @@ public class Point {
     // need a class variable to keep track total points (put it on top)
 
     // need to class method to return total points (put it just below constructors)
+    // caleb toole is doing this.
 
     // need a quadrant() method that return which quadrant the point is located 1, 2, 3, or 4
 
