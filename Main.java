@@ -14,6 +14,8 @@ public class Main {
         Point p3 = new Point(-3,-4);
         System.out.println(p3);
         System.out.println(Point.getTotalPoints());
+        
+        System.out.println("shooting pod is cool");
 
     }
 }
