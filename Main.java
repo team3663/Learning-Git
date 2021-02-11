@@ -17,6 +17,10 @@ public class Main {
         
         System.out.println("shooting pod is cool");
         System.out.println("Hello");
+<<<<<<< HEAD
         System.out.println("merge Conflict");
+=======
+        System.out.println("Yesss");
+>>>>>>> 5b9c4527ce92879588ee7dd2f40057f6ff8e8b5a
     }
 }
