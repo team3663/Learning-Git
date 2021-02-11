@@ -16,6 +16,6 @@ public class Main {
         System.out.println(Point.getTotalPoints());
         
         System.out.println("shooting pod is cool");
-
+        System.out.println("Hello");
     }
 }
