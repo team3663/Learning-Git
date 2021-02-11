@@ -18,15 +18,5 @@ public class Main {
         System.out.println("shooting pod is cool");
         System.out.println("Hello");
         System.out.println("merge Conflict");
-        /*hi
-         *
-         * 
-         * 
-         * 
-         * 
-         * 
-         * 
-         * 
-         */
     }
 }
